@@ -1,6 +1,5 @@
+package com.example.guidhostname;
 
-
-import org.guidgenerator.GuidHostnameGenerator;
 import org.junit.jupiter.api.Test;
 
 import java.util.Collections;
@@ -48,5 +47,6 @@ class GuidHostnameGeneratorTest {
         // Verify the total number of unique keys generated matches the number of requests
         assertEquals(numberOfRequests, generatedKeys.size(),
                 "Number of generated keys does not match the number of requests");
+        System.out.println("Done");
     }
 }

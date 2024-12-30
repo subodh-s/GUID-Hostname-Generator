@@ -1,4 +1,4 @@
-package org.guidgenerator;
+package com.example.guidhostname;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
