@@ -146,7 +146,7 @@ class GuidHostnameGeneratorTest {
 ### 1. Clone or Download
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/guid-hostname-generator.git
+git clone https://github.com/subodh-s/guid-hostname-generator.git
 cd guid-hostname-generator
 ```
 
